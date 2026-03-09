@@ -1,0 +1,14 @@
+{
+  "w": 1280,
+  "h": 720,
+  "fps": 30,
+  "frames_per_chunk": 48,
+  "total_chunks": 3351,
+  "time_start": "02:15:29",
+  "time_end": "02:17:12",
+  "processing_time": "00:01:42",
+  "chunk_start": 3300,
+  "chunk_end": 3350,
+  "chunk_count": 51,
+  "size": "422.54 MB"
+}
